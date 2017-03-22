@@ -1,0 +1,28 @@
+{
+  "name": "osmjson-api",
+  "version": "1.0.0",
+  "description": "JavaScript API via OAuth 2.0 to OpenStreetMap API v0.6 using JSON objects",
+  "main": "osmjson-api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyper85/osmjson-api.git"
+  },
+  "keywords": [
+    "OpenStreetMap",
+    "OSM",
+    "OAuth",
+    "OAuth2.0"
+  ],
+  "author": "Andreas Neumann <andr.neumann@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyper85/osmjson-api/issues"
+  },
+  "homepage": "https://github.com/cyper85/osmjson-api#readme"
+}
